@@ -4,7 +4,7 @@
 az login
 ```
 
-Create a place to logicalluy store everything (resource group)
+Create a place to logically store everything (resource group)
 
 ```bash
 az group create -n PapaStarWarsApiGroup -l eastus
